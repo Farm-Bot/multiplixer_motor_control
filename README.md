@@ -1,3 +1,4 @@
+<pre>
 This example code is in the public domain.
 
 
@@ -22,3 +23,4 @@ m1 [-------] m2
    |       |
    |       |
 m3 [-------] m4
+</pre>
