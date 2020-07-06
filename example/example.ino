@@ -26,7 +26,7 @@ m1|m2 [-------] m3|m4
 
 #include<run_motor.h> // includes the libraey
 
-run_motor instance(2,3,4,5,6,7); // call run_motor with a name instance
+run_motor instance(2,3,4,5,6,7); // call run_motor with a name instance in order motor left 1, motor left 2, motor right 1, motor right 2, pwm_left , pwm_right
 void setup() {
   instance.set(); // initialize run_motor
   instance.turn_rate = 2; // default = 2 defines how sharp turn the vehical should take
