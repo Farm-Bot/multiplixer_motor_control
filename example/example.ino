@@ -3,7 +3,7 @@
  This example code is in the public domain.
 
 
- This library uses 4051 mux ic to operate 4 DC motor individually with PWM support.
+ This library uses motor controller to operate 4 DC motor with PWM support.
 
 
  ***PIN CONNECTION***
