@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-run_gmotor	KEYWORD1
+run_motor	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -20,9 +20,3 @@ set	KEYWORD2
 # Constants (LITERAL2)
 #######################################
 
-m1 LITERAL1
-m2 LITERAL1
-m3 LITERAL1
-m4 LITERAL1
-forward LITERAL1
-backward LITERAL1
